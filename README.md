@@ -11,3 +11,9 @@ https://www.reddit.com/r/Guildwars2/comments/3h734z/does_anyone_know_how_to_comb
 Commenter: u/fffam
 
 Posted: August 16, 2015
+
+# Sidebar for some fun commonly used links (adding to page later)
+
+- Riding Broom of Penetration [&AgELwwBAN2EAAA==]
+
+- Bone of Demon Summoning [&AgEYXwBAB2AAAA==]
