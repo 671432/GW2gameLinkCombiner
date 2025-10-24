@@ -195,6 +195,10 @@ export default function App() {
 
   return (
     <div className="game-link-combiner-wrapper">
+      <p className="note">
+        if the Preview below returns [Unknown Item] when opening this page, then
+        the GW2 API is down
+      </p>
       <h1>Guild Wars 2 Chat Code Combiner</h1>
       <div className="game-link-combiner">
         <div className="form">
